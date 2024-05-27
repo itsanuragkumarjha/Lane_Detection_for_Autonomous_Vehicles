@@ -1,0 +1,6 @@
+numpy
+opencv-python
+moviepy
+pillow
+tkinter
+jupyter notebook
