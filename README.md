@@ -1,5 +1,8 @@
 # 🚗✨ Lane_Detection_for_Autonomous_Vehicles and Video Comparison Tool
 - Welcome to the Lane Detection and Video Comparison Tool! This repository features a sophisticated lane detection pipeline using OpenCV and a futuristic, user-friendly Tkinter GUI to compare input and processed videos side-by-side. Perfect for developers and researchers working on autonomous driving and advanced driver-assistance systems (ADAS).
+<p align="center">
+<img src="imgb.png" />
+</p>
 
 ## 🌟 Features:
 - 🔍 Lane Detection: Efficiently detect and highlight lane lines in video frames using advanced image processing techniques.
